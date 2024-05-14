@@ -2,5 +2,5 @@
 SDLC 1.
 Tulis 
 
-Name: Amelia Rahman
-Role: Backend Engineer
+- Name: Amelia Rahman
+- Role: Backend Engineer
