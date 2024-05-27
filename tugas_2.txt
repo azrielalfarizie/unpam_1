@@ -1,2 +1,2 @@
-1. Create folder: Name_NIK
-2. Insert functionality and non-functionality list of "Order in Restaurant" in docx file
+1. Create folder: Name_NIM
+2. Insert functionality and non-functionality list of "Order in Restaurant" in docx file, please present in table.
