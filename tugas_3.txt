@@ -1,0 +1,2 @@
+1. Inside new folder : Name_NIK_Tugas3
+2. Please create activity diagram of system order in Restaurant (order dine-in, delivery and kitchen).

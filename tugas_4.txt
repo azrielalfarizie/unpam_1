@@ -1,0 +1,3 @@
+1. Inside new folder : Name_NIK_Tugas4
+2. Please create Use Case Diagram of Restaurant System that we have already discussed.
+3. Commit with message: Tugas4_Name_NIK
